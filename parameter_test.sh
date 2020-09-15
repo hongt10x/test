@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#date: 2020/9/15
+#first test
 
 function parse_args()
 {
